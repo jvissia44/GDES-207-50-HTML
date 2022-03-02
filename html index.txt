@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body style="background-color:tan;">
+<title>Page Title</title>
+<style> h1 {text-align: center;} </style>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+
+
+<div class="warning">
+    <img src="/media/examples/leopard.jpg"
+         alt="An intimidating leopard.">
+    <p>Beware of the leopard</p>
+</div>
+
+
+<p>You can reach Michael at:</p>
+
+<ul>
+  <li><a href="https://example.com">Website</a></li>
+  <li><a href="mailto:m.bluth@example.com">Email</a></li>
+  <li><a href="tel:+123456789">Phone</a></li>
+</ul>
+
+
+
+
+<p>When Dave asks HAL to open the pod bay door, HAL answers: <q cite="https://www.imdb.com/title/tt0062622/quotes/qt0396921">I'm sorry, Dave. I'm afraid I can't do that.</q></p>
+
+
+
+<figure>
+    <figcaption>Listen to the T-Rex:</figcaption>
+    <audio
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+<img class="fit-picture"
+     src="/media/cc0-images/grapefruit-slice-332-332.jpg"
+     alt="Grapefruit slice atop a pile of other slices">
+
+
+
+<video controls width="250">
+
+    <source src="/media/cc0-videos/flower.webm"
+            type="video/webm">
+
+    <source src="/media/cc0-videos/flower.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+
+
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik">
+</iframe>
+
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+<table>
+    <caption>He-Man and Skeletor facts</caption>
+    <tr>
+        <td> </td>
+        <th scope="col" class="heman">He-Man</th>
+        <th scope="col" class="skeletor">Skeletor</th>
+    </tr>
+    <tr>
+        <th scope="row">Role</th>
+        <td>Hero</td>
+        <td>Villain</td>
+    </tr>
+    <tr>
+        <th scope="row">Weapon</th>
+        <td>Power Sword</td>
+        <td>Havoc Staff</td>
+    </tr>
+    <tr>
+        <th scope="row">Dark secret</th>
+        <td>Expert florist</td>
+        <td>Cries at romcoms</td>
+    </tr>
+</table>
+
+
+<button class="favorite styled"
+        type="button">
+    Add to favorites </button>
+    
+<button class="favorite styled"
+        type="button">
+    Add to favorites </button>
+
+<button class="favorite styled"
+        type="button">
+    Add to favorites </button>
+
+<button class="favorite styled"
+        type="button">
+    Add to favorites </button>
+
+<button class="favorite styled"
+        type="button">
+    Add to favorites </button>
+
+<button class="favorite styled"
+        type="button">
+    Add to favorites </button>
+    
+<button class="favorite styled"
+        type="button">
+    Add to favorites </button>
+    
+
+<form>
+  <fieldset>
+    <legend>Choose your favorite monster</legend>
+
+    <input type="radio" id="kraken" name="monster">
+    <label for="kraken">Kraken</label><br/>
+
+    <input type="radio" id="sasquatch" name="monster">
+    <label for="sasquatch">Sasquatch</label><br/>
+
+    <input type="radio" id="mothman" name="monster">
+    <label for="mothman">Mothman</label>
+  </fieldset>
+</form>
+
+
+      <img src="https://www.gpnps.org/sideoats.gif" alt="Simply Easy Learning" width="180" height="120">
+      
+       <img src="https://www.gpnps.org/sideoats.gif" alt="Simply Easy Learning" width="180" height="120">
+       
+       <img src="https://www.gpnps.org/sideoats.gif" alt="Simply Easy Learning" width="180" height="120">
+       
+      <img src="https://www.gpnps.org/sideoats.gif" alt="Simply Easy Learning" width="180" height="120">
+
+
+<label for="fuel">Fuel level:</label>
+
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="50">
+    at 50/100
+</meter>
+
+
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
