@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body style="background-color:tan;">
+<title>Page Title</title>
+<style> h1 {text-align: center;} </style>
+<style>table, th, td {border: 1px solid black;}</style>
+</head>
+<body>
+
+<h1>Interesting Facts About Jed</h1>
+
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+
+</br>
+<p>The coolest animal on the planet is a tiger.</p>
+<div class="warning">
+    <img src="/media/examples/leopard.jpg"
+         alt="Tiger.">
+</div>
+
+
+<p>You can reach Jedidiah at:</p>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/jed-vissia-8108b4222?trk=people-guest_people_search-card">LinkedIn</a></li>
+  
+  <li><a href="jedidiah.vissia@jacks.sdstate.edu">Email me</a></li>
+  
+  <li><a href="tel:+16056828758">Don't call me</a></li>
+</ul>
+
+
+
+
+<p>Sylvester Stallone: <q cite="https://www.imdb.com/title/tt0062622/quotes/qt0396921">I'm sorry, Dave. I'm afraid I can't do that.</q></p>
+
+
+
+<p>This is a paragraph.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2546.129250152252!2d-96.78403608487139!3d44.31738321724628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8789a2fa7049eb9d%3A0xe3478f6c673c2dca!2sSDSU%20Student%20Union!5e1!3m2!1sen!2sus!4v1646267506303!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<br>
+<br>
+<br>
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
+<caption> test caption </caption>
+
+
+
+<p>Click the correct button to stop getting calls about your cars extended warranty.</p>
+
+<form method="get" action="https://d2l.sdbor.edu/d2l/home">
+<button type="submit">This one</button>
+    
+<button class="favorite styled"
+        type="button">
+    Nope </button>
+
+<button class="favorite styled"
+        type="button">
+    Not here </button>
+
+<button class="favorite styled"
+        type="button">
+    Second one </button>
+
+<button class="favorite styled"
+        type="button">
+    Next one </button>
+
+<button class="favorite styled"
+        type="button">
+    Last one </button>
+    
+<button class="favorite styled"
+        type="button">
+    This one </button></form>
+    
+
+<form>
+  <fieldset>
+    <legend>Who would win in a fight?</legend>
+
+    <input type="radio" id="Godzilla" name="monster">
+    <label for="Godzilla">Godzilla</label><br/>
+
+    <input type="radio" id="King Kong" name="monster">
+    <label for="King Kong">King Kong</label><br/>
+  </fieldset>
+</form>
+
+
+      <img src="" alt="Mountain" width="180" height="120">
+      
+      <img src="" alt="Simply Easy Learning" width="180" height="120">
+       
+      <img src="" alt="Simply Easy Learning" width="180" height="120">
+       
+      <img src="" alt="Simply Easy Learning" width="180" height="120">
+
+
+
+<br/>
+<p>This is a paragraph.</p>
+<label for="fuel">Fuel level:</label>
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="50">
+    at 50/100
+</meter><br/>
+
+<label for="fuel">Fuel level:</label>
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="50">
+    at 50/100
+</meter><br/>
+
+<label for="fuel">Fuel level:</label>
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="50">
+    at 50/100
+</meter><br/>
+
+<label for="fuel">Fuel level:</label>
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="50">
+    at 50/100
+</meter><br/>
+
+
+<p>A drop down list of countries I have been to.</p>
+<details>
+    <summary>Details</summary>
+    United States of America</br>
+    Mexico</br>
+    Canada</br>
+    Jamaica</br>
+    Bahamas</br>
+    England</br>
+    France</br>
+    Germany</br>
+    Austria</br>
+    Italy</br>
+    Leichtenstein</br>
+    Greece</br>
+    Switzerland
+</details>
+
+
+
+<p>This is a paragraph.</p>
+<figure>
+    <figcaption>Listen to the T-Rex:</figcaption>
+    <audio
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+<p>Don't click this. You'll just get Rick Rolled.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<form>
+  <fieldset>
+    <legend>What is Jed's favorite sport<</legend>
+
+    <input type="radio" id="Football" name="monster">
+    <label for="Football">Football</label><br/>
+    
+    <input type="radio" id="Baseball" name="monster">
+    <label for="Baseball">Baseball</label><br/>
+    
+    <input type="radio" id="Wrestling" name="monster">
+    <label for="Wrestling">Wrestling</label><br/>
+
+    <input type="radio" id="Golf" name="monster">
+    <label for="Golf">Golf</label><br/>
+  </fieldset>
+</form>
+
+
+
+
+</body>
+</html>
